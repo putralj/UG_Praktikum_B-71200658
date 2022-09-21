@@ -1,0 +1,1 @@
+{"Andy": [{"Alamat": "Jogja"}, {"Kolega": ["Banu", "Rina"]}], "Banu": [{"Alamat": "Solo"}, {"Kolega": ["Andy", "Rina"]}], "Rina": [{"Alamat": "Solo"}, {"Kolega": ["Andy", "Banu"]}], "Caca": [{"Alamat": "Pati"}, {"Kolega": ["Andy", "Banu"]}], "Kaka": [{"Alamat": "Malang"}, {"Kolega": ["Caca"]}]}
